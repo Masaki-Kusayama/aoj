@@ -1,2 +1,3 @@
 <?php
-	echo pow($argv[1], 3) . PHP_EOL;
+	$stdin = trim(fgets(STDIN));
+	echo pow($stdin, 3) . PHP_EOL;
