@@ -1,0 +1,2 @@
+# aoj
+for AIZU ONLINE JUDGE
