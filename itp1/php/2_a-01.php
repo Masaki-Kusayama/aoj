@@ -4,9 +4,9 @@
 	$b = $stdin[1];
 
 	if ($a > $b) {
-		echo "$a > $b" . PHP_EOL;
+		echo "a > b" . PHP_EOL;
 	} else if ($a < $b) {
-		echo "$a < $b" . PHP_EOL;
+		echo "a < b" . PHP_EOL;
 	} else {
-		echo "$a == $b" . PHP_EOL;
+		echo "a == b" . PHP_EOL;
 	}
